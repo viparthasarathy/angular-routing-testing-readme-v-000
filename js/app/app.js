@@ -18,3 +18,5 @@ angular
 				controller: 'NotificationsSettingsController'
 			});
 	});
+
+  
